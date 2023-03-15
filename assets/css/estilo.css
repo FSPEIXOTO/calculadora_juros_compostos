@@ -62,14 +62,13 @@
     font-weight: 500;
 }
 
-.input-field input{
+.input-field input {
     background-color: transparent;
     border: none;
-    border-bottom: 1px, solid, #4c1d95;
-    color: white;
+    border-bottom: 1px solid #4c1d95;
+    color: #fff;
     font-size: 20px;
     padding: 5px;
-
 }
 
 .input-field input:focus{
